@@ -1,1 +1,1 @@
-# rss_summarize
+"{text}"
