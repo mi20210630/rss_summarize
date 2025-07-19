@@ -1,26 +1,26 @@
-### 蓝点网 2025-07-18 新闻简报
+### 📰 蓝点网早报（2025-07-19 UTC）
 
-> *由 RSS 摘编，按发布时间倒序*
+| # | 动态 | 一句话要点 | 详情🔗 |
+|---|------|-----------|--------|
+| 1 | **微软关闭影视商店** | Xbox/Windows 的 “电影和电视” 图标明起变灰；已购片源仍可播放，但暂不退款。 | [原文](https://www.landiannews.com/archives/109838.html) |
+| 2 | **Windows 11 防火墙“乌龙”** | KB 月更声称修掉 Event 2042，结果只是误标记；官方再鸽几周。 | [原文](https://www.landiannews.com/archives/109828.html) |
+| 3 | **LibreOffice 怒批微软格式垄断** | 指 Office 365 故意用“复杂锁定逻辑”断兼容，暗度陈仓。 | [原文](https://www.landiannews.com/archives/109827.html) |
+| 4 | **Steam 大面积下架成人游戏** | Valve 称卡组织施压，稍有违规直接封杀渠道，无关审核标准。 | [原文](https://www.landiannews.com/archives/109826.html) |
+| 5 | **Windows 10 ESU 白嫖技巧** | TSForge 一键激活 3 年企业级安全更新，个人用户也可零费用续命。 | [原文](https://www.landiannews.com/archives/109825.html) |
+| 6 | **ChatGPT 并网谷歌云** | 部分国家/地区已由 GCP 托管，OpenAI 继续“去微软化”。 | [原文](https://www.landiannews.com/archives/109824.html) |
+| 7 | **Threadripper PRO 9000 WX 标价** | 96C/192T 旗舰破万刀：US$11,699，月底上架，主攻本地 AI 工作站。 | [原文](https://www.landiannews.com/archives/109823.html) |
+| 8 | **WeTransfer 火速撤回 AI 条款** | 用户集体抗议后，官方删去“可拿你的文件训练模型”字样。 | [原文](https://www.landiannews.com/archives/109822.html) |
+| 9 | **安卓第三方 B 站客户端 PiliPala 停更** | 被 B 站律师函警告“不正当竞争”，v1.0.27 或将成为绝响。 | [原文](https://www.landiannews.com/archives/109821.html) |
+|10 | **Win11 简版托盘区胎死腹中** | 大量 Insider 吐槽后被砍：铃铛按钮、年份显示继续保留。 | [原文](https://www.landiannews.com/archives/109820.html) |
+|11 | **Microsoft 365 启动加速项静默关闭** | 用户发现新版默认关，微软未解释是 Bug 还是性能顾虑。 | [原文](https://www.landiannews.com/archives/109819.html) |
+|12 | **Claude Code 收紧额度** | 月付 200 刀仍遭“隐性限速”，Anthropic 承认接到投诉正查。 | [原文](https://www.landiannews.com/archives/109812.html) |
+|13 | **OpenAI 推出 ChatGPT 智能体** | 整合 Operator ＋ DeepResearch 可自动网购/做 PPT；Plus 月 50 次。 | [原文](https://www.landiannews.com/archives/109811.html) |
+|14 | **Cloudflare 1.1.1.1 瞬时宕机** | 不是 BGP 劫持，内部配置小白鼠，全球 DNS 抖一下。 | [原文](https://www.landiannews.com/archives/109810.html) |
+|15 | **ChatGPT Mac 版新增会议录制+转录** | 一键把 Zoom/Teams 录音变纪要，仅付费订阅可用。 | [原文](https://www.landiannews.com/archives/109809.html) |
+|16 | **PyPI 封禁 Inbox.ru 邮箱注册** | 250 账户狂发 1500 钓鱼包，俄域名一锅端。 | [原文](https://www.landiannews.com/archives/109808.html) |
+|17 | **火狐中国版→国际版迁移指南** | 从判断版本到数据导出，一条命令顺滑搬家。 | [原文](https://www.landiannews.com/archives/109807.html) |
+|18 | **Switch 2 二手卡带被指复制锁机** | MIG 复制游戏触发任天堂法网，玩家晒聊天记录后获解锁。 | [原文](https://www.landiannews.com/archives/109806.html) |
+|19 | **谷歌再澄清 ChromeOS-安卓融合** | 只借安卓内核/堆栈重铸，ChromeOS 品牌不死。 | [原文](https://www.landiannews.com/archives/109805.html) |
+|20 | **Facebook 清洗 1000 万低质账号** | 盗图/重复搬运正式被降权，原创作者流量见底。 | [原文](https://www.landiannews.com/archives/109804.html) |
 
-| 时间 | 标题 | 摘要 |
-|---|---|---|
-| 06:18 | ChatGPT将使用谷歌云计算平台GCP提供服务 | OpenAI 决定引入 GCP，只在部分国家/地区提供，较以往更独立脱离微软独供。 |
-| 03:59 | AMD线程撕裂者9000 WX即将开售 | 最高 96 核 192 线程，售价 11 699 美元，面向 AI 本地推理与工作站市场。 |
-| 03:35 | WeTransfer撤回AI训练条款 | 官方更新使用协议，删除“可用用户文件训练 AI / 出售”条款，回应隐私关切。 |
-| 03:18 | 安卓非官方B站客户端PiliPala停更 | 因侵权律师函，开发者宣布停止更新，v1.0.27.0402 或成终版。 |
-| 02:47 | Win11取消简化托盘区 | 微软因负面反馈从 Insider build 移除 2024-07 起测试的「简版系统托盘」。 |
-| 02:28 | M365 “启动加速”疑被默认禁用 | 用户发现 Word 等启动项已被关闭，微软未确认是 BUG 还是策略调整。 |
-| 01:31 | Claude Code用户突遭限额 | Anthropic 在无任何警告下收紧配额，Claude Max 付费用户也被限，官方正核查。 |
-| 01:03 | OpenAI推出ChatGPT智能体 | 新版整合 Operator＋深度研究，可自动网购、写稿；Plus 每月限 50 次。 |
-| Thu-17 | Cloudflare解释1.1.1.1大断 | 并非 BGP 劫持或攻击，纯属内部路由配置错误致全球 DNS 服务中断。 |
-| Thu-17 | ChatGPT for Mac新增会议录音/转录 | 可一键录会议并生成纪要，限付费订阅，含要点、跟踪待办等功能。 |
-| Thu-17 | PyPI禁Inbox.ru域注册 | 因 250+ 账号滥发 1500+ 钓鱼包，故屏蔽俄罗斯 Inbox.ru 注册。 |
-| Wed-16 | 指南：火狐国际版 / 中国版判别与数据迁移 | 火狐中国将停运，官方教程教你分辨版本并迁出书签、密码等数据。 |
-| Wed-16 | Switch 2二手游戏锁机事件 | MIG 复制卡带被任天堂识别，玩家买二手被锁机；提交交易凭证后获解封。 |
-| Wed-16 | 谷歌澄清ChromeOS不消失 | 仅计划用安卓内核重启底层，ChromeOS 仍将保留品牌与体验。 |
-| Wed-16 | Facebook清理千万垃圾号 | 算法降权非原创、盗取图文/视频，已有 1000 万虚假账号被删。 |
-| Wed-16 | 阿里云将关闭南京、福州本地域 | 8-15 停售、9-15 不续费、2026-07 全面下电，仅余武汉本地域。 |
-| Wed-16 | 火狐中国将停运 | 谋智火狐信息技术公司关闭，中国账户同步即将终止。 |
-| Wed-16 | cURL考虑取消漏洞赏金 | AI 垃圾漏洞报告激增，项目维护人手告急，或停奖金计划。 |
-| Wed-16 | ChatGPT图形生成新增动漫提示模板 | 内置赛博朋克、复古卡通等预设，免费用户也可一键出图。 |
-| Wed-16 | Win10 LTSB 2015 寿终 | 2025-10 结束生命周期，不再推送安全更新。 |
+> 以上内容由 RSS 自动生成，时间截点 2025-07-19 12:00 CST。
